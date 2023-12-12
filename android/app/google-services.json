@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250650216193",
+    "project_id": "chat-with-pdf-or-websit-oh18ip",
+    "storage_bucket": "chat-with-pdf-or-websit-oh18ip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250650216193:android:bf8ddc3c103bedf113fd00",
+        "android_client_info": {
+          "package_name": "com.mycompany.chatwithpdforwebsite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYEBGaLQcHj1kiPcLReUOHevg-beD_Eak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
